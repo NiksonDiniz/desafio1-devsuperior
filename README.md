@@ -10,7 +10,7 @@ Capítulo: Componentes e injeção de dependência
 
 ## :pushpin:DESAFIO: Componentes e injeção de dependência
 
-[PDF]() da atividade.
+[PDF](https://github.com/NiksonDiniz/desafio1-devsuperior/blob/main/01%20DESAFIO%20Componentes%20e%20inje%C3%A7%C3%A3o%20de%20depend%C3%AAncia.pdf) da atividade.
 
 
 
